@@ -7,9 +7,9 @@
 2. Change into new directory:
 `$ cd composer-issue`
 3. Clone the 3 demonstration repositories:
-i. `$ git clone https://github.com/strarsis/composer-issue-package-a`
-ii. `$ git clone https://github.com/strarsis/composer-issue-package-c`
-iii. `$ git clone https://github.com/strarsis/composer-issue-package-c`
+  1. `$ git clone https://github.com/strarsis/composer-issue-package-a`
+  2. `$ git clone https://github.com/strarsis/composer-issue-package-c`
+  3. `$ git clone https://github.com/strarsis/composer-issue-package-c`
 4. Change into demonstration repository B:
 `$ cd composer-issue-package-b`
 5. Run composer to install its dependencies:
