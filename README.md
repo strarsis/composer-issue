@@ -27,7 +27,9 @@ This should work.
 
 This will fail as composer cannot find sub-dependency `package-c` that `package-b` is using.
 
-Dependency chain:
+
+Dependency chains:
+
 `package B` -> `package C`: Works correctly
 
 `package A` -> `package B` -> `package C`: Doesn't work correctly, cannot find `package C`.
