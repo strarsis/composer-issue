@@ -20,6 +20,7 @@ It should work.
 `$ cd composer-issue-package-A`
     1. Run composer to install its dependencies:
 `$ composer update`
+
 This should fail, composer cannot find sub-dependency `package-c` that `package-b` is using.
 
 Chain:
