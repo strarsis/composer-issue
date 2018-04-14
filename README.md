@@ -12,13 +12,13 @@
     3. `$ git clone https://github.com/strarsis/composer-issue-package-c`
 4. Change into demonstration repository B:
 `$ cd composer-issue-package-b`
-5. Run composer to install its dependencies:
+    1. Run composer to install its dependencies:
 `$ composer update`
 It should work.
 6. Change into demonstration repository A:
 `$ cd ..`
 `$ cd composer-issue-package-A`
-7. Run composer to install its dependencies:
+    1. Run composer to install its dependencies:
 `$ composer update`
 This should fail, composer cannot find sub-dependency `package-c` that `package-b` is using.
 
