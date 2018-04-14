@@ -17,6 +17,7 @@
 `$ cd composer-issue-package-b`
     1. Run composer to install its dependencies:
 `$ composer update`
+
 This should work.
 
 5. Change into demonstration repository A:
