@@ -10,7 +10,7 @@
 
 3. Clone the 3 demonstration repositories:
     1. `$ git clone https://github.com/strarsis/composer-issue-package-a`
-    2. `$ git clone https://github.com/strarsis/composer-issue-package-c`
+    2. `$ git clone https://github.com/strarsis/composer-issue-package-b`
     3. `$ git clone https://github.com/strarsis/composer-issue-package-c`
 
 4. Change into demonstration repository B:
