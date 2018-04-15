@@ -22,7 +22,7 @@ This should work.
 
 5. Change into demonstration repository A:
 `$ cd ..`
-`$ cd composer-issue-package-A`
+`$ cd composer-issue-package-a`
     1. Run composer to install its dependencies:
 `$ composer update`
 
